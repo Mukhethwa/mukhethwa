@@ -51,7 +51,7 @@ I have always had an interest in how applications are developed locally on a dev
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 If you would like to run this project locally, follow these simple steps:
 
