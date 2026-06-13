@@ -1,0 +1,31 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+
+ul, ol {
+  list-style-position: inside;
+  padding: 0; 
+}
+h3{
+  color: green;
+  
+}
+
+h4{
+  color: yellow;
+}
+
+.centered-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;     
+  width: 100%;            
+}
+
+.centered-image-container img {
+  max-width: 100%;        
+  height: auto;
+}
