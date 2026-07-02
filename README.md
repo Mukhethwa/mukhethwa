@@ -36,7 +36,7 @@ I have always had an interest in how applications are developed locally on a dev
 
 ### Current Focus & Progress
 * **Microsoft Azure Fundamentals (AZ-900)** — Completed
-* **Kubernetes and Cloud Native Essentials (LFS250)** — Studying for the exam
+* **Kubernetes and Cloud Native Essentials (LFS250)** — Completed
 * **Microsoft Azure Developer Associate (AZ-204)** — Studying for the exam
 
 ### Future Milestones
