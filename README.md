@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Welcome to my personal portfolio website, where I document my transition into the world of cloud computing and my progress toward becoming a DevOps Engineer. 
 
-🔗 **Live Website:** [https://mukhethwa.github.io/mukhethwa/](https://mukhethwa.github.io/mukhethwa/)
+🔗 **Live Website:** https://mybucket970130.s3.eu-north-1.amazonaws.com/index.html
 
 ---
 
