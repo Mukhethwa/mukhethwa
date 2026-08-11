@@ -25,7 +25,7 @@ Welcome to my personal portfolio website, where I document my transition into th
 
 ##  About the Project
 
-This project is a personal web page designed to introduce myself, showcase my passion for cloud technology, and track my certification goals. It was built as part of the Code Your Future (CYF) course.
+This project is a personal web page designed to introduce myself, showcase my passion for cloud technology, and track my certification goals.
 
 ### What Sparked My Interest
 I have always had an interest in how applications are developed locally on a developer's PC and then deployed online for the world to see—how the technology behind the scenes runs and who maintains it. Through research, I found out about cloud computing and I've been in this search for knowledge ever since. I have since started working on certificates in this field and hope to one day reach my goal of becoming a DevOps Engineer.
